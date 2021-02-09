@@ -21,7 +21,7 @@ Anthony ynohtnA
 
 Make sure to add a newline at the end of your answer for it to match the answer format.
 __________________________________________________________________________________
-**optional challenge: write your code in under 0 lines**
+**optional challenge: write your code in under 3 lines**
 
 This problem deals with lists, strings, character capitalization, character replacement, etc. Pretty cool. **Do your research, google is your friend.**
 
